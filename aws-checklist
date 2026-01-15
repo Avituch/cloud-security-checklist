@@ -1,0 +1,7 @@
+# AWS Security Checklist
+
+- Uso de IAM Roles en lugar de claves estáticas
+- MFA habilitado para usuarios root
+- CloudTrail habilitado en todas las regiones
+- Uso de Security Groups con reglas restrictivas
+- Backups automatizados
