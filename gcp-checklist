@@ -1,0 +1,7 @@
+# Google Cloud Security Checklist
+
+- Uso de IAM con roles predefinidos
+- MFA habilitado para cuentas administrativas
+- Cloud Logging habilitado
+- Restricción de APIs innecesarias
+- Backups y snapshots periódicos
